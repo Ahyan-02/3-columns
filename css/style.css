@@ -84,7 +84,7 @@ a {
     }
     .luxary {
         border-top-right-radius: 0.7rem;
-        border-bottom-left-radius: none;
+        border-bottom-left-radius: 0;
     }
     .sedan {
         
